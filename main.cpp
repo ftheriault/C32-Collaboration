@@ -71,16 +71,23 @@ void fct08() {
 }
 
 void fct09() {
-cout << "\033[0;35m";
-cout << "        .---. \n";
-cout << "       /     \\ \n";
-cout << "       \\.@-@./ \n";
-cout << "       /`\\_/`\\ \n";
-cout << "      //  _  \\\\ \n";
-cout << "     | \\     )|_ \n";
-cout << "    /`\\_`>  <_/ \\ \n";
-cout << "jgs \\__/'---'\\__/  \n";
-cout << "\033[0m";
+
+string debutCouleur = "\033[1;35;47m", finCouleur = "\033[0m";
+string dessin[] = 
+{
+ "        .---.    ",
+ "       /     \\   ",
+ "       \\.@-@./   ",
+ "       /`\\_/`\\   ",
+ "      //  _  \\\\  ",
+ "     | \\     )|_ ",
+ "    /`\\_`>  <_/ \\",
+ "jgs \\__/'---'\\__/"
+};
+for(int i = 0; i < 8; i++)
+{
+	cout<< debutCouleur << dessin[i] << finCouleur << '\n';
+}
 }
 
 void fct10() {
