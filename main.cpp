@@ -62,6 +62,12 @@ void fct14() {
 }
 
 void fct15() {
+cout << "       /|   " << endl;
+cout << "   ___/ |_/|" << endl;
+cout << " <(___   _-|" << endl;
+cout << "      \\ | \\|" << endl;
+cout << "       \\|   " << endl;
+cout << "je suis un avion :)" << endl; 
 }
 
 void fct16() {
