@@ -53,6 +53,12 @@ void fct11() {
 }
 
 void fct12() {
+cout << " ########## ";
+cout << " #        # ";
+cout << " #        # ";
+cout << " #        # ";
+cout << " #        # ";
+cout << " ########## ";
 }
 
 void fct13() {
