@@ -72,9 +72,10 @@ void fct17() {
 
 void fct18() {
 cout << "*******************\n";
-cout << "*CECI EST UN ASCII*\n";
-cout << "*CE FUT BREF MAIS *\n";
-cout << "*MAIS CE FUT BIEN *\n";
+cout << "*ROSES ARE RED    *\n";
+cout << "*VIOLETS ARE BLUE *\n";
+cout << "*MY CODE IS DEAD  *\n";
+cout << "*YOURS IS TOO.    *\n";
 cout << "*******************\n";
 cout << "        **         \n";
 cout << "        **         \n";
