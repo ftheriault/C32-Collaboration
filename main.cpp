@@ -65,6 +65,19 @@ void fct15() {
 }
 
 void fct16() {
+
+cout << "DON'T FORGET TO SAVE!";
+cout << "\n\n";
+cout << "|# :           : #| \n";
+cout << "|  :           :  | \n";
+cout << "|  :           :  | \n";
+cout << "|  :           :  | \n";
+cout << "|  :___________:  | \n";
+cout << "|                 | \n";
+cout << "|                 | \n";
+cout << "|    ||  |     |  | \n";
+cout << "\\____||__|_____|__| \n";
+
 }
 
 void fct17() {
