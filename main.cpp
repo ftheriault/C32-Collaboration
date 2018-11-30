@@ -19,6 +19,15 @@ void fct00() {
 }
 
 void fct01() {
+cout<<"                           .-\'\'-.\n";
+cout<< "                          (___/\\ \\|n";
+cout<< "        ,                 (|^ ^ ) )\n";
+cout<< "       /(                _)_\\=_/  (\n";
+cout<< " ,..__/ \\          ____(_/_ ` \\   )\n";
+cout<< "  `\\    _/        _/---._/(_)_  `\\ (\n";
+cout<< "    '--\\ `-.__..-'    /.    (_), |  \n";
+cout<< "        `._        ___\\_____.'_| |__/\n";
+cout<< "           `~----\"`   `-.........'±\n";
 }
 
 void fct02() {
@@ -71,6 +80,7 @@ void fct08() {
 }
 
 void fct09() {
+cout << "\033[0;35m";
 cout << "        .---. \n";
 cout << "       /     \\ \n";
 cout << "       \\.@-@./ \n";
@@ -78,7 +88,8 @@ cout << "       /`\\_/`\\ \n";
 cout << "      //  _  \\\\ \n";
 cout << "     | \\     )|_ \n";
 cout << "    /`\\_`>  <_/ \\ \n";
-cout << "jgs \\__/'---'\\__/ \n";
+cout << "jgs \\__/'---'\\__/  \n";
+cout << "\033[0m";
 }
 
 void fct10() {
@@ -115,6 +126,7 @@ void fct16() {
 
 cout << "DON'T FORGET TO SAVE!";
 cout << "\n\n";
+cout << " ----------------- \n";
 cout << "|# :           : #| \n";
 cout << "|  :           :  | \n";
 cout << "|  :           :  | \n";
@@ -131,7 +143,17 @@ void fct17() {
 }
 
 void fct18() {
-}
+cout << "*******************\n";
+cout << "*ROSES ARE RED    *\n";
+cout << "*VIOLETS ARE BLUE *\n";
+cout << "*MY CODE IS DEAD  *\n";
+cout << "*YOURS IS TOO.    *\n";
+cout << "*******************\n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **  -GdCP  \n";}
 
 void fct19() {
 }
@@ -155,10 +177,29 @@ void fct21() {
 }
 
 void fct22 () {
+
+cout<<"    ___________\n";
+cout<<"   |.---------.|\n";
+cout<<"   ||         ||\n";
+cout<<"   ||         ||\n";
+cout<<"   ||         ||\n";
+cout<<"   |'---------'|\n";
+cout<<"    `)__ ____('\n";
+cout<<"    [=== -- o ]--.\"\n";
+cout<<"  __'---------'__ \"\n";
+cout<<" [::::::::::: :::] )\"\n";
+cout<<"  `""'""""'""""""`/T\"""\n";
+cout<<"                  /_/\"\n";
 }
 
 void fct23() {
-}
+	cout << "Ceci est le code de Charles a.k.a. The Big Bear" << "\n";
+	 cout << "     ,.----------.     \n";
+    cout << "    ((|          |     \n";
+    cout << "   .--\\          /--.  \n";
+    cout << "  '._  '========'  _.' \n";
+    cout << "     `""""""""""""`    \n";
+}	
 
 void fct24() {
 }
@@ -180,16 +221,51 @@ cout << "  ░░░░░░░░░░░I███████████�
 void fct27() { 
 }
 
-void fct28() {
+void fct28()
+{
+        cout <<" 0 0 0 \n";
+        cout <<"0 . . 0\n";
+        cout <<"0 --- 0\n";
+        cout <<" 0 0 0 \n";
 }
 
 void fct29() {
 }
 
 void fct30() {
+char Respect;
+cout << "\n      .--..--..--..--..--..--.";
+cout << "\n    .' \\  (`._   (_)     _   \\";
+cout << "\n  .'    |  '._)         (_)  |";
+cout << "\n  \\ _.')\\      .----..---.   /";
+cout << "\n  |(_.'  |    /    .-\\-.  \\  |";
+cout << "\n  \\     0|    |   ( O| O) | o|";
+cout << "\n   |  _  |  .--.____.'._.-.  |";
+cout << "\n   \\ (_) | o         -` .-`  |";
+cout << "\n    |    \\   |`-._ _ _ _ _\\ /";
+cout << "\n    \\    |   |  `. |_||_|   |";
+cout << "\n    | o  |    \\_      \\     |     -.   .-.";
+cout << "\n    |.-.  \\     `--..-'   O |     `.`-' .'";
+cout << "\n  _.'  .' |     `-.-'      /-.__   ' .-'";
+cout << "\n.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'";
+cout << "\n`-._  `.  |________/\\_____|    `-.'";
+cout << "\n   .'   ).| '=' '='\\/ '=' |";
+cout << "\n   `._.`  '---------------'";
+cout << "\n            /___\\   /___\\ ";
+cout << "\n             ||       ||";
+cout << "\n   RIP       ||_.-.   ||_.-.";
+cout << "\n            (_.--__) (_.--__)";
+cout << "\n\n   PRESS F TO PAY RESPECT\n\n";
+cin >> Respect;
+if(Respect =='F'|| Respect == 'f')
+cout << "\nTHANKS\n\n";
+else
+cout << "\nNO RESPECT COME ON\n\n";
+
+cin.get();
 }
 
-void separator() {	
+void separator() {
 	cout << "\n======= fct " << count++ << " ===============\n";
 }
 
