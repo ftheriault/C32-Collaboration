@@ -19,6 +19,15 @@ void fct00() {
 }
 
 void fct01() {
+cout<<"                           .-\'\'-.\n";
+cout<< "                          (___/\\ \\|n";
+cout<< "        ,                 (|^ ^ ) )\n";
+cout<< "       /(                _)_\\=_/  (\n";
+cout<< " ,..__/ \\          ____(_/_ ` \\   )\n";
+cout<< "  `\\    _/        _/---._/(_)_  `\\ (\n";
+cout<< "    '--\\ `-.__..-'    /.    (_), |  \n";
+cout<< "        `._        ___\\_____.'_| |__/\n";
+cout<< "           `~----\"`   `-.........'±\n";
 }
 
 void fct02() {
@@ -97,12 +106,12 @@ void fct11() {
 }
 
 void fct12() {
-cout << " ########## ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " ########## ";
+cout << " ##########\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " ##########\n";
 }
 
 void fct13() {
@@ -141,7 +150,17 @@ void fct17() {
 }
 
 void fct18() {
-}
+cout << "*******************\n";
+cout << "*ROSES ARE RED    *\n";
+cout << "*VIOLETS ARE BLUE *\n";
+cout << "*MY CODE IS DEAD  *\n";
+cout << "*YOURS IS TOO.    *\n";
+cout << "*******************\n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **  -GdCP  \n";}
 
 void fct19() {
 }
