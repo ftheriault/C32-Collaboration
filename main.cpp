@@ -115,6 +115,7 @@ void fct16() {
 
 cout << "DON'T FORGET TO SAVE!";
 cout << "\n\n";
+cout << " ----------------- \n";
 cout << "|# :           : #| \n";
 cout << "|  :           :  | \n";
 cout << "|  :           :  | \n";
