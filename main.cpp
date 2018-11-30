@@ -86,7 +86,13 @@ void fct22 () {
 }
 
 void fct23() {
-}
+	cout << "Ceci est le code de Charles a.k.a. The Big Bear" << "\n";
+	 cout << "     ,.----------.     \n";
+    cout << "    ((|          |     \n";
+    cout << "   .--\\          /--.  \n";
+    cout << "  '._  '========'  _.' \n";
+    cout << "     `""""""""""""`    \n";
+}	
 
 void fct24() {
 }
