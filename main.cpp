@@ -71,7 +71,16 @@ void fct17() {
 }
 
 void fct18() {
-}
+cout << "*******************\n";
+cout << "*CECI EST UN ASCII*\n";
+cout << "*CE FUT BREF MAIS *\n";
+cout << "*MAIS CE FUT BIEN *\n";
+cout << "*******************\n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **         \n";
+cout << "        **  -GdCP  \n";}
 
 void fct19() {
 }
