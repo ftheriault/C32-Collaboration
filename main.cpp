@@ -88,12 +88,12 @@ void fct11() {
 }
 
 void fct12() {
-cout << " ########## ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " #        # ";
-cout << " ########## ";
+cout << " ##########\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " #        #\n";
+cout << " ##########\n";
 }
 
 void fct13() {
