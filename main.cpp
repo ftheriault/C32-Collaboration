@@ -115,6 +115,7 @@ void fct16() {
 
 cout << "DON'T FORGET TO SAVE!";
 cout << "\n\n";
+cout << " ----------------- \n";
 cout << "|# :           : #| \n";
 cout << "|  :           :  | \n";
 cout << "|  :           :  | \n";
@@ -155,10 +156,29 @@ void fct21() {
 }
 
 void fct22 () {
+
+cout<<"    ___________\n";
+cout<<"   |.---------.|\n";
+cout<<"   ||         ||\n";
+cout<<"   ||         ||\n";
+cout<<"   ||         ||\n";
+cout<<"   |'---------'|\n";
+cout<<"    `)__ ____('\n";
+cout<<"    [=== -- o ]--.\"\n";
+cout<<"  __'---------'__ \"\n";
+cout<<" [::::::::::: :::] )\"\n";
+cout<<"  `""'""""'""""""`/T\"""\n";
+cout<<"                  /_/\"\n";
 }
 
 void fct23() {
-}
+	cout << "Ceci est le code de Charles a.k.a. The Big Bear" << "\n";
+	 cout << "     ,.----------.     \n";
+    cout << "    ((|          |     \n";
+    cout << "   .--\\          /--.  \n";
+    cout << "  '._  '========'  _.' \n";
+    cout << "     `""""""""""""`    \n";
+}	
 
 void fct24() {
 }
