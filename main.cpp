@@ -71,6 +71,7 @@ void fct08() {
 }
 
 void fct09() {
+cout << "\033[0;35m";
 cout << "        .---. \n";
 cout << "       /     \\ \n";
 cout << "       \\.@-@./ \n";
@@ -78,7 +79,8 @@ cout << "       /`\\_/`\\ \n";
 cout << "      //  _  \\\\ \n";
 cout << "     | \\     )|_ \n";
 cout << "    /`\\_`>  <_/ \\ \n";
-cout << "jgs \\__/'---'\\__/ \n";
+cout << "jgs \\__/'---'\\__/  \n";
+cout << "\033[0m";
 }
 
 void fct10() {
@@ -222,7 +224,7 @@ void fct29() {
 }
 
 void fct30() {
-
+char Respect;
 cout << "\n      .--..--..--..--..--..--.";
 cout << "\n    .' \\  (`._   (_)     _   \\";
 cout << "\n  .'    |  '._)         (_)  |";
@@ -244,7 +246,14 @@ cout << "\n            /___\\   /___\\ ";
 cout << "\n             ||       ||";
 cout << "\n   RIP       ||_.-.   ||_.-.";
 cout << "\n            (_.--__) (_.--__)";
-cout << endl;
+cout << "\n\n   PRESS F TO PAY RESPECT\n\n";
+cin >> Respect;
+if(Respect =='F'|| Respect == 'f')
+cout << "\nTHANKS\n\n";
+else
+cout << "\nNO RESPECT COME ON\n\n";
+
+cin.get();
 }
 
 void separator() {
