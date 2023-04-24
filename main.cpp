@@ -19,6 +19,7 @@ void fct00() {
 }
 
 void fct01() {
+
 }
 
 void fct02() {
@@ -93,6 +94,7 @@ cout << "boi";
 }
 
 void fct21() {
+cout << "Le soleil me manque";
 }
 
 void fct22 () {
