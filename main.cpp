@@ -70,6 +70,9 @@ void fct16() {
 }
 
 void fct17() {
+for(int i = 0; i<=9; i++){
+	cout << "Amine Fanid\n";
+}
 }
 
 void fct18() {
