@@ -119,6 +119,7 @@ void fct28() {
 }
 
 void fct29() {
+	cout << "beignes\n";
 }
 
 void fct30() {
