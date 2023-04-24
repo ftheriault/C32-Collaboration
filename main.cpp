@@ -72,7 +72,11 @@ void fct13() {
 }
 
 void fct14() {
-}
+cout << "O       o O       o O       o \n ";
+cout << "| O   o | | O   o | | O   o | \n ";
+cout << "| | O | | | | O | | | | O | | \n " ;
+cout << "| o   O | | o   O | | o   O | \n ";
+cout << "o       O o       O o       O \n ";}
 
 void fct15() {
 }
