@@ -84,6 +84,7 @@ for(int i = 0; i<=9; i++){
 }
 
 void fct18() {
+	cout << "voici mon code qui compile";
 }
 
 void fct19() {
