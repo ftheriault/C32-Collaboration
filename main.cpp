@@ -65,6 +65,8 @@ void fct15() {
 }
 
 void fct16() {
+	// Quote d'un sans-abris...
+	cout << "Vous m'avez l'air princier... Vous m'en voyez ravis!";
 }
 
 void fct17() {
