@@ -83,6 +83,7 @@ void fct19() {
 }
 
 void fct20() {
+cout << "boi";
 }
 
 void fct21() {
