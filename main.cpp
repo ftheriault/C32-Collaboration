@@ -54,9 +54,13 @@ void fct11() {
 }
 
 void fct12() {
+cout << ("Salut git !");
 }
 
 void fct13() {
+	cout << ".oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.\n";
+	cout << "Je sais aussi, dit Candide, qu'il faut cultiver notre jardin.\n";
+	cout << ".oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.\n";
 }
 
 void fct14() {
@@ -83,6 +87,7 @@ void fct19() {
 }
 
 void fct20() {
+cout << "boi";
 }
 
 void fct21() {
