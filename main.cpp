@@ -22,6 +22,7 @@ void fct01() {
 }
 
 void fct02() {
+	cout<< "CAV EMPT\n";
 }
 
 void fct03() {
