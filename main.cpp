@@ -26,6 +26,7 @@ void fct02() {
 }
 
 void fct03() {
+	cout << "Hello groupe ! :)\n";
 }
 
 void fct04() {
