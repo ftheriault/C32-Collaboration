@@ -119,6 +119,10 @@ void separator() {
 	cout << "\n======= fct " << count++ << " ===============\n";
 }
 
+void fct32() {
+	cout << "J'aime les chats!\n";
+}
+
 int main(int argc, char* argv[])
 {
 	separator();
@@ -183,6 +187,8 @@ int main(int argc, char* argv[])
 	fct29();
 	separator();
 	fct30();
+	separator();
+	fct32();
 	
 	return 0;
 }
