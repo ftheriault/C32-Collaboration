@@ -50,6 +50,7 @@ void fct10() {
 }
 
 void fct11() {
+     cout << "Salut comment ca va!!";
 }
 
 void fct12() {
