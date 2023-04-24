@@ -31,6 +31,11 @@ void fct03() {
 }
 
 void fct04() {
+	cout <<"(MEOW)\n";
+	cout <<"  v\n";
+	cout <<"/\\_/\\\n";
+	cout <<"( o.o )\n";
+	cout <<"> ^ <\n";
 }
 
 void fct05() {
