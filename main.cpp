@@ -54,6 +54,7 @@ void fct11() {
 }
 
 void fct12() {
+cout << ("Salut git !");
 }
 
 void fct13() {
