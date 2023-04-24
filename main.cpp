@@ -50,6 +50,7 @@ void fct10() {
 }
 
 void fct11() {
+     cout << "Salut comment ca va!!";
 }
 
 void fct12() {
@@ -65,9 +66,14 @@ void fct15() {
 }
 
 void fct16() {
+	// Quote d'un sans-abris...
+	cout << "Vous m'avez l'air princier... Vous m'en voyez ravi!";
 }
 
 void fct17() {
+for(int i = 0; i<=9; i++){
+	cout << "Amine Fanid\n";
+}
 }
 
 void fct18() {
@@ -112,6 +118,10 @@ void fct30() {
 
 void separator() {
 	cout << "\n======= fct " << count++ << " ===============\n";
+}
+
+void fct32() {
+	cout << "J'aime les chats!\n";
 }
 
 int main(int argc, char* argv[])
@@ -178,6 +188,8 @@ int main(int argc, char* argv[])
 	fct29();
 	separator();
 	fct30();
+	separator();
+	fct32();
 	
 	return 0;
 }
