@@ -57,6 +57,9 @@ void fct12() {
 }
 
 void fct13() {
+	cout << ".oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.\n";
+	cout << "Je sais aussi, dit Candide, qu'il faut cultiver notre jardin.\n";
+	cout << ".oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.\n";
 }
 
 void fct14() {
