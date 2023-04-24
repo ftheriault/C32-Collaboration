@@ -140,6 +140,10 @@ void separator() {
 	cout << "\n======= fct " << count++ << " ===============\n";
 }
 
+void fct31() {
+	cout << "Amenez moi des chocolats avec praline noisettes";
+}
+
 void fct32() {
 	cout << "J'aime les chats!\n";
 }
@@ -208,6 +212,8 @@ int main(int argc, char* argv[])
 	fct29();
 	separator();
 	fct30();
+	separator();
+	fct31();
 	separator();
 	fct32();
 	
