@@ -15,14 +15,15 @@ void fct00() {
     cout << "   .--\\          /--.  \n";
     cout << "  '._  '========'  _.' \n";
     cout << "     `""""""""""""`    \n";
-    cout << "Le cafe est le meilleur ami de l'informaticien !\n";
+    cout << "Le cafe est le meilleur ami de l'informaticien !!\n";
 }
 
 void fct01() {
+
 }
 
 void fct02() {
-	cout<< "CAV EMPT\n";
+	cout<< "CAV EMPT!\n";
 }
 
 void fct03() {
@@ -30,6 +31,11 @@ void fct03() {
 }
 
 void fct04() {
+	cout <<"(MEOW)\n";
+	cout <<"  v\n";
+	cout <<"/\\_/\\\n";
+	cout <<"( o.o )\n";
+	cout <<"> ^ <\n";
 }
 
 void fct05() {
@@ -66,7 +72,11 @@ void fct13() {
 }
 
 void fct14() {
-}
+cout << "O       o O       o O       o \n ";
+cout << "| O   o | | O   o | | O   o | \n ";
+cout << "| | O | | | | O | | | | O | | \n " ;
+cout << "| o   O | | o   O | | o   O | \n ";
+cout << "o       O o       O o       O \n ";}
 
 void fct15() {
 }
@@ -83,6 +93,7 @@ for(int i = 0; i<=9; i++){
 }
 
 void fct18() {
+	cout << "voici mon code qui compile";
 }
 
 void fct19() {
@@ -93,6 +104,7 @@ cout << "boi";
 }
 
 void fct21() {
+cout << "Le soleil me manque";
 }
 
 void fct22 () {
@@ -117,6 +129,7 @@ void fct28() {
 }
 
 void fct29() {
+	cout << "beignes\n";
 }
 
 void fct30() {
@@ -125,6 +138,10 @@ void fct30() {
 
 void separator() {
 	cout << "\n======= fct " << count++ << " ===============\n";
+}
+
+void fct31() {
+	cout << "Amenez moi des chocolats avec praline noisettes";
 }
 
 void fct32() {
@@ -195,6 +212,8 @@ int main(int argc, char* argv[])
 	fct29();
 	separator();
 	fct30();
+	separator();
+	fct31();
 	separator();
 	fct32();
 	
