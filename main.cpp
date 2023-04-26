@@ -120,7 +120,7 @@ void fct29() {
 }
 
 void fct30() {
-	cout << "Im hungry. When is lunch time?!?";
+	cout << "Hello";
 }
 
 void separator() {
