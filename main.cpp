@@ -15,7 +15,7 @@ void fct00() {
     cout << "   .--\\          /--.  \n";
     cout << "  '._  '========'  _.' \n";
     cout << "     `""""""""""""`    \n";
-    cout << "Le cafe est le meilleur ami de l'informaticien !!\n";
+    cout << "L'orange est le meilleur ami de l'informaticien !!\n";
 }
 
 void fct01() {
