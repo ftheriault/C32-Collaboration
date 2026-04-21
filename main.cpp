@@ -40,6 +40,7 @@ void fct09() {
 }
 
 void fct10() {
+	cout << ":D" << endl;
 }
 
 void fct11() {
