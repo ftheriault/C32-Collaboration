@@ -19,6 +19,11 @@ void fct02() {
 }
 
 void fct03() {
+	int x = 9;
+	int y = 4;
+	int z = x + y;
+	cout << z + " : Variable Z";
+	cout << endl;
 }
 
 void fct04() {
