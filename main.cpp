@@ -10,6 +10,11 @@ int count = 0;
  * Fonction du prof!
 */
 void fct00() {
+  cout << "     _______\n";
+  cout << "    /      /,\n";
+  cout << "   /      //\n";
+  cout << "  /______//\n";
+  cout << " (______(/\n";
 }
 
 void fct01() {
@@ -27,6 +32,7 @@ void fct03() {
 }
 
 void fct04() {
+	cout << "Ça fonctionne pas mal.\n";
 }
 
 void fct05() {
