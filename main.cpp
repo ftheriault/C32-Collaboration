@@ -12,7 +12,7 @@ int count = 0;
 void fct00() {
   cout << "     _______\n";
   cout << "    /      /,\n";
-  cout << "   /      //\n";
+  cout << "   /   RED   //\n";
   cout << "  /______//\n";
   cout << " (______(/\n";
 }
