@@ -23,6 +23,7 @@ void fct03() {
 }
 
 void fct04() {
+	cout << "Ça fonctionne pas mal.\n";
 }
 
 void fct05() {
