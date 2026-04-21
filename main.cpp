@@ -77,10 +77,7 @@ void fct17() {
 }
 
 void fct18() {
-<<<<<<< HEAD
-=======
 cout << "Oh comme la neige a neigé";
->>>>>>> ac90694f663daa63737a8d0bbc5cf29824781b2a
 }
 
 void fct19() {
