@@ -11,18 +11,30 @@ int count = 0;
  * Fonction du prof!
 */
 void fct00() {
+  cout << "     _______\n";
+  cout << "    /      /,\n";
+  cout << "   /      //\n";
+  cout << "  /______//\n";
+  cout << " (______(/\n";
 }
 
 void fct01() {
+cout << "\n(╯°□°)╯︵ ┻━┻\n";
 }
 
 void fct02() {
 }
 
 void fct03() {
+	int x = 9;
+	int y = 4;
+	int z = x + y;
+	cout << z + " : Variable Z";
+	cout << endl;
 }
 
 void fct04() {
+	cout << "Ça fonctionne pas mal.\n";
 }
 
 void fct05() {
@@ -55,6 +67,7 @@ void fct09() {
 }
 
 void fct10() {
+	cout << ":D" << endl;
 }
 
 void fct11() {
