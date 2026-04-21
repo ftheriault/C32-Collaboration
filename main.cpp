@@ -18,6 +18,7 @@ void fct00() {
 }
 
 void fct01() {
+cout << "\n(╯°□°)╯︵ ┻━┻\n";
 }
 
 void fct02() {
