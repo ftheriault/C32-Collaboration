@@ -64,6 +64,7 @@ void fct17() {
 }
 
 void fct18() {
+cout << "Oh comme la neige a neigé";
 }
 
 void fct19() {
